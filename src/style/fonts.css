@@ -1,0 +1,22 @@
+@font-face {
+  font-family: "yekan-bold";
+  src: url("../assets/fonts/yekan.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "yekan";
+  src: url("../assets/fonts/yekan-bold.woff") format("woff");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "iran-sans";
+  src:
+    url("../assets/fonts/iran-sans.woff") format("woff"),
+    url("../assets/fonts/iran-sans.ttf") format("ttf");
+  font-weight: normal;
+  font-style: normal;
+}
